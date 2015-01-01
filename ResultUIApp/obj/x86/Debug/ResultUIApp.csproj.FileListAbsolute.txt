@@ -1,0 +1,7 @@
+c:\users\taukir\documents\visual studio 2010\Projects\ResultUIApp\ResultUIApp\bin\Debug\ResultUIApp.exe
+c:\users\taukir\documents\visual studio 2010\Projects\ResultUIApp\ResultUIApp\bin\Debug\ResultUIApp.pdb
+c:\users\taukir\documents\visual studio 2010\Projects\ResultUIApp\ResultUIApp\obj\x86\Debug\ResultUIApp.ResultUI.resources
+c:\users\taukir\documents\visual studio 2010\Projects\ResultUIApp\ResultUIApp\obj\x86\Debug\ResultUIApp.Properties.Resources.resources
+c:\users\taukir\documents\visual studio 2010\Projects\ResultUIApp\ResultUIApp\obj\x86\Debug\ResultUIApp.csproj.GenerateResource.Cache
+c:\users\taukir\documents\visual studio 2010\Projects\ResultUIApp\ResultUIApp\obj\x86\Debug\ResultUIApp.exe
+c:\users\taukir\documents\visual studio 2010\Projects\ResultUIApp\ResultUIApp\obj\x86\Debug\ResultUIApp.pdb
